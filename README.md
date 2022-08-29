@@ -6,8 +6,10 @@ Clone of telegram and olx animated appbars
 
 Telegram Appbar
 👇👇
+
 ![me](assets/tele.gif)
 
 Olx Appbar
 👇👇
+
 ![me](assets/olx.gif)
